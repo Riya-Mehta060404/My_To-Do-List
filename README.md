@@ -11,5 +11,4 @@ This repository contains a simple and elegant Todo List web app built using Tail
 - Schedule your to-dos
 - Change to-dos status
 - Filter to-dos by status
-## Web App link
-https://ritu-todo-list.netlify.app
+
